@@ -41,12 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-## 🌟 Featured Projects
-- 🚀 [Massy Ops](link) - Web-based management interface for Massy Distribution Jamaica's delivery system.
-- 💻 [Sanejo JA](link) - Booking Website interface for Sanejo Ja Boat Ride services.
-- 🌐 [BookWorm](link) - Mobile Appication where users can read files (specifically books from).
-
 ## 📫 Let's Connect!
 I'm always interested in collaborating on exciting projects or discussing tech! Reach out to me:
 - 📧 Email: smithdoneque12@gmail.com
